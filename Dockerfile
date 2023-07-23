@@ -1,7 +1,7 @@
-FROM jepthoniq/jepthon:slim-buster
+FROM E9N9L/sthon:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/jepthoniq/jepthon.git /root/jepthon
+RUN git clone https://github.com/E9N99/sthon.git /root/jepthon
 #working directory 
 WORKDIR /root/jepthon
 
