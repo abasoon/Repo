@@ -1,5 +1,5 @@
 # Telegram
-![Joker](https://i.ibb.co/wcW2S4d/Ephoto360-com-163942f57f3305.jpg)
+![𝗦𝞝𝗗𝙏𝙃𝙊𝙉](https://telegra.ph/file/824b6c606c1b019a219a2.jpg)
 
 **من افضل سورسات اليوزر بوت العربية**
 
