@@ -1,9 +1,9 @@
 FROM E9N9L/sthon:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/E9N99/sthon.git /root/jepthon
+RUN git clone https://github.com/E9N99/sthon.git /root/SedUb
 #working directory 
-WORKDIR /root/jepthon
+WORKDIR /root/SedUb
 
 # Install requirements
 RUN curl -sL https://deb.nodesource.com/setup_16.x | bash -
@@ -11,6 +11,6 @@ RUN apt-get install -y nodejs
 RUN npm i -g npm
 RUN pip3 install --no-cache-dir -r requirements.txt
 
-ENV PATH="/home/HuRe/bin:$PATH"
+ENV PATH="/home/SedUb/bin:$PATH"
 
-CMD ["python3","-m","HuRe"]
+CMD ["python3","-m","SedUb"]
